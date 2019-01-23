@@ -6,6 +6,7 @@ The ``master`` branch of this repository contains the latest known data. There a
 ## Source
 
 * 2018: http://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Lohnsteuer/2017-11-08-steuerliche-behandlung-reisekosten-reisekostenverguetungen-2018.pdf?__blob=publicationFile&v=2
+* 2019: https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Lohnsteuer/2018-11-28-steuerliche-behandlung-reisekosten-reisekostenverguetungen-2019.pdf?__blob=publicationFile&v=2
 
 ## License
 
