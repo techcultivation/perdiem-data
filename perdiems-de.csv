@@ -1,34 +1,34 @@
 ISO,Land,Stadt,24h,8h,Übernachtung
 AF,Afghanistan,,30,20,95
 EG,Ägypten,,41,28,125
-ET,Äthiopien,,27,18,86
+ET,Äthiopien,,39,26,130
 GQ,Äquatorialguinea,,36,24,166
 AL,Albanien,,29,20,113
 DZ,Algerien,,51,34,173
 AD,Andorra,,34,23,45
-AO,Angola,,77,52,265
+AO,Angola,,52,35,299
 AG,Antigua und Barbuda,,45,30,177
-AR,Argentinien,,34,23,144
-AM,Armenien,,23,16,63
+AR,Argentinien,,35,24,113
+AM,Armenien,,24,16,59
 AZ,Aserbaidschan,,30,20,72
 AU,Australien,Canberra,51,34,158
 AU,Australien,Sydney,68,45,184
 AU,Australien,,51,34,158
 BH,Bahrain,,45,30,180
-BD,Bangladesch,,30,20,111
+BD,Bangladesch,,50,33,165
 BB,Barbados,,52,35,165
 BE,Belgien,,42,28,135
-BJ,Benin,,40,27,101
+BJ,Benin,,52,35,115
 BO,Bolivien,,30,20,93
-BA,Bosnien und Herzegowina,,18,12,73
+BA,Bosnien und Herzegowina,,23,16,75
 BW,Botsuana,,40,27,102
 BR,Brasilien,Brasilia,57,38,127
 BR,Brasilien,Rio de Janeiro,57,38,145
 BR,Brasilien,Sao Paulo,53,36,132
 BR,Brasilien,,51,34,84
-BN,Brunei,,48,32,106
+BN,Brunei,,52,35,106
 BG,Bulgarien,,22,15,90
-BF,Burkina Faso,,44,29,84
+BF,Burkina Faso,,38,25,174
 BI,Burundi,,47,32,98
 CL,Chile,,44,29,187
 CN,China,Chengdu,35,24,105
@@ -40,13 +40,14 @@ CN,China,,50,33,78
 CR,Costa Rica,,47,32,93
 CI,Côte d’Ivoire,,51,34,146
 DK,Dänemark,,58,39,143
+DE,Deutschland,,28,14,20
 DM,Dominica,,45,30,177
 DO,Dominikanische Republik,,45,30,147
 DJ,Dschibuti,,65,44,305
 EC,Ecuador,,44,29,97
 SV,El Salvador,,44,29,119
 ER,Eritrea,,50,33,91
-EE,Estland,,27,18,71
+EE,Estland,,29,20,85
 FJ,Fidschi,,34,23,69
 FI,Finnland,,50,33,136
 FR,Frankreich,Lyon,53,36,115
@@ -54,7 +55,7 @@ FR,Frankreich,Marseille,46,31,101
 FR,Frankreich,Paris sowie die Departments 92 93 und 94,58,39,152
 FR,Frankreich,Straßburg,51,34,96
 FR,Frankreich,,44,29,115
-GA,Gabun,,62,41,278
+GA,Gabun,,52,35,183
 GM,Gambia,,30,20,125
 GE,Georgien,,35,24,88
 GH,Ghana,,46,31,148
@@ -67,22 +68,23 @@ GW,Guinea-Bissau,,24,16,86
 GY,Guyana,,45,30,177
 HT,Haiti,,58,39,130
 HN,Honduras,,48,32,101
+IN,Indien,Bangalore,42,28,155
 IN,Indien,Chennai,32,21,85
 IN,Indien,Kalkutta,35,24,145
 IN,Indien,Mumbai,50,33,146
 IN,Indien,Neu Delhi,38,25,185
 IN,Indien,,32,21,85
-ID,Indonesien,,38,25,130
+ID,Indonesien,,36,24,134
 IR,Iran,,33,22,196
 IE,Irland,,44,29,92
 IS,Island,,47,32,108
-IL,Israel,,56,37,191
+IL,Israel,,66,44,190
 IT,Italien,Mailand,45,30,158
 IT,Italien,Rom,40,27,135
 IT,Italien,,40,27,135
 JM,Jamaika,,57,38,138
 JP,Japan,Tokio,66,44,233
-JP,Japan,,51,34,156
+JP,Japan,,52,35,190
 YE,Jemen,,24,16,95
 JO,Jordanien,,46,31,126
 KH,Kambodscha,,38,25,94
@@ -93,38 +95,38 @@ CA,Kanada,Vancouver,50,33,140
 CA,Kanada,,47,32,134
 CV,Kap Verde,,30,20,105
 KZ,Kasachstan,,45,30,111
-QA,Katar,,56,37,170
+QA,Katar,,56,37,149
 KE,Kenia,,42,28,223
-KG,Kirgisistan,,29,20,91
-CO,Kolumbien,,41,28,126
+KG,Kirgisistan,,27,18,74
+CO,Kolumbien,,46,31,115
 CG,Republik Kongo,,50,33,200
-CD,Demokratische Republik Kongo,,68,45,171
-KP,Demokratische Volksrepublik Korea,,39,26,132
+CD,Demokratische Republik Kongo,,70,47,190
+KP,Demokratische Volksrepublik Korea,,28,19,92
 KR,Repuplik Korea,,58,39,112
 XK,Kosovo,,23,16,57
-HR,Kroatien,,28,19,75
+HR,Kroatien,,35,24,107
 CU,Kuba,,46,31,228
 KW,Kuwait,,42,28,185
 LA,Laos,,33,22,96
 LS,Lesotho,,24,16,103
-LV,Lettland,,30,20,80
+LV,Lettland,,35,24,76
 LB,Libanon,,59,40,123
 LY,Libyen,,63,42,135
 LI,Liechtenstein,,53,36,180
-LT,Litauen,,24,16,68
+LT,Litauen,,26,17,109
 LU,Luxemburg,,47,32,130
 MG,Madagaskar,,34,23,87
 MW,Malawi,,47,32,123
 MY,Malaysia,,34,23,88
 MV,Malediven,,52,35,170
-ML,Mali,,41,28,122
-MT,Malta,,45,30,112
+ML,Mali,,38,25,120
+MT,Malta,,46,31,114
 MA,Marokko,,42,28,129
 MH,Marshall Inseln,,63,42,102
 MR,Mauretanien,,39,26,105
 MU,Mauritius,,54,36,220
 MK,Mazedonien,,29,20,95
-MX,Mexiko,,41,28,141
+MX,Mexiko,,48,32,177
 FM,Mikronesien,,33,22,116
 MD,Republik Moldau,,24,16,88
 MC,Monaco,,42,28,180
@@ -132,23 +134,23 @@ MN,Mongolei,,27,18,92
 ME,Montenegro,,29,20,94
 MZ,Mosambik,,38,25,146
 MM,Myanmar,,35,24,155
-NA,Namibia,,23,16,77
+NA,Namibia,,30,20,112
 NP,Nepal,,28,19,86
 NZ,Neuseeland,,56,37,153
 NI,Nicaragua,,36,24,81
-NL,Niederlande,,46,31,119
+NL,Niederlande,,47,32,122
 NE,Niger,,41,28,89
-NG,Nigeria,,63,42,255
+NG,Nigeria,,46,31,182
 NO,Norwegen,,80,53,182
 AT,Österreich,,40,27,108
 OM,Oman,,60,40,200
-PK,Pakistan,Islamabad,30,20,165
-PK,Pakistan,,27,18,68
+PK,Pakistan,Islamabad,23,16,238
+PK,Pakistan,,34,23,122
 PW,Palau,,51,34,179
 PA,Panama,,39,26,111
 PG,Papua-Neuguinea,,60,40,234
 PY,Paraguay,,38,25,108
-PE,Peru,,30,20,93
+PE,Peru,,34,23,143
 PH,Philippinen,,33,22,116
 PL,Polen,Breslau,33,22,117
 PL,Polen,Danzig,30,20,84
@@ -197,27 +199,27 @@ SS,Südsudan,,34,23,150
 SR,Suriname,,45,30,177
 SY,Syrien,,38,25,140
 TJ,Tadschikistan,,27,18,118
-TW,Taiwan,,51,34,126
+TW,Taiwan,,46,31,143
 TZ,Tansania,,47,32,201
 TH,Thailand,,38,25,110
-TG,Togo,,35,24,108
+TG,Togo,,39,26,118
 TO,Tonga,,39,26,94
 TT,Trinidad und Tobago,,45,30,177
 TD,Tschad,,64,43,163
 CZ,Tschechische Republik,,35,24,94
-TR,Türkei,Istanbul,35,24,104
-TR,Türkei,Izmir,42,28,80
-TR,Türkei,,40,27,78
+TR,Türkei,Istanbul,26,17,120
+TR,Türkei,Izmir,29,20,55
+TR,Türkei,,17,12,95
 TN,Tunesien,,40,27,115
 TM,Turkmenistan,,33,22,108
-UG,Uganda,,35,24,129
-UA,Ukraine,,32,21,98
+UG,Uganda,,41,28,143
+UA,Ukraine,,26,17,98
 HU,Ungarn,,22,15,63
-UY,Uruguay,,44,29,109
+UY,Uruguay,,48,32,90
 UZ,Usbekistan,,34,23,123
 VA,Vatikanstaat,,52,35,160
-VE,Venezuela,,69,46,127
-AE,Vereinigte Arabische Emirate,,45,30,155
+VE,Venezuela,,45,30,127
+AE,Vereinigte Arabische Emirate,,65,44,156
 US,Vereinigte Staaten von Amerika (USA),Atlanta,62,41,175
 US,Vereinigte Staaten von Amerika (USA),Boston,58,39,265
 US,Vereinigte Staaten von Amerika (USA),Chicago,54,36,209
