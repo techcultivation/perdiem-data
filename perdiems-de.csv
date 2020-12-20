@@ -3,9 +3,9 @@ AF,Afghanistan,,30,20,95
 EG,Ägypten,,41,28,125
 ET,Äthiopien,,39,26,130
 GQ,Äquatorialguinea,,36,24,166
-AL,Albanien,,29,20,113
+AL,Albanien,,27,18,112
 DZ,Algerien,,51,34,173
-AD,Andorra,,34,23,45
+AD,Andorra,,41,28,91
 AO,Angola,,52,35,299
 AG,Antigua und Barbuda,,45,30,177
 AR,Argentinien,,35,24,113
@@ -21,7 +21,7 @@ BE,Belgien,,42,28,135
 BJ,Benin,,52,35,115
 BO,Bolivien,,30,20,93
 BA,Bosnien und Herzegowina,,23,16,75
-BW,Botsuana,,40,27,102
+BW,Botsuana,,46,31,176
 BR,Brasilien,Brasilia,57,38,127
 BR,Brasilien,Rio de Janeiro,57,38,145
 BR,Brasilien,Sao Paulo,53,36,132
@@ -29,16 +29,16 @@ BR,Brasilien,,51,34,84
 BN,Brunei,,52,35,106
 BG,Bulgarien,,22,15,90
 BF,Burkina Faso,,38,25,174
-BI,Burundi,,47,32,98
-CL,Chile,,44,29,187
-CN,China,Chengdu,35,24,105
+BI,Burundi,,36,24,138
+CL,Chile,,44,29,154
+CN,China,Chengdu,41,28,131
 CN,China,Hongkong,74,49,145
-CN,China,Kanton,40,27,113
-CN,China,Peking,46,31,142
-CN,China,Shanghai,50,33,128
-CN,China,,50,33,78
+CN,China,Kanton,36,24,150
+CN,China,Peking,30,20,185
+CN,China,Shanghai,58,39,217
+CN,China,,48,32,112
 CR,Costa Rica,,47,32,93
-CI,Côte d’Ivoire,,51,34,146
+CI,Côte d’Ivoire,,59,40,166
 DK,Dänemark,,58,39,143
 DE,Deutschland,,28,14,20
 DM,Dominica,,45,30,177
@@ -56,7 +56,7 @@ FR,Frankreich,Paris sowie die Departments 92 93 und 94,58,39,152
 FR,Frankreich,Straßburg,51,34,96
 FR,Frankreich,,44,29,115
 GA,Gabun,,52,35,183
-GM,Gambia,,30,20,125
+GM,Gambia,,40,27,161
 GE,Georgien,,35,24,88
 GH,Ghana,,46,31,148
 GD,Grenada,,45,30,177
@@ -76,7 +76,7 @@ IN,Indien,Neu Delhi,38,25,185
 IN,Indien,,32,21,85
 ID,Indonesien,,36,24,134
 IR,Iran,,33,22,196
-IE,Irland,,44,29,92
+IE,Irland,,58,39,129
 IS,Island,,47,32,108
 IL,Israel,,66,44,190
 IT,Italien,Mailand,45,30,158
@@ -96,23 +96,23 @@ CA,Kanada,,47,32,134
 CV,Kap Verde,,30,20,105
 KZ,Kasachstan,,45,30,111
 QA,Katar,,56,37,149
-KE,Kenia,,42,28,223
+KE,Kenia,,51,34,219
 KG,Kirgisistan,,27,18,74
 CO,Kolumbien,,46,31,115
-CG,Republik Kongo,,50,33,200
+CG,Republik Kongo,,62,41,215
 CD,Demokratische Republik Kongo,,70,47,190
 KP,Demokratische Volksrepublik Korea,,28,19,92
-KR,Repuplik Korea,,58,39,112
+KR,Repuplik Korea,,48,32,108
 XK,Kosovo,,23,16,57
 HR,Kroatien,,35,24,107
 CU,Kuba,,46,31,228
-KW,Kuwait,,42,28,185
+KW,Kuwait,,56,37,241
 LA,Laos,,33,22,96
 LS,Lesotho,,24,16,103
 LV,Lettland,,35,24,76
 LB,Libanon,,59,40,123
 LY,Libyen,,63,42,135
-LI,Liechtenstein,,53,36,180
+LI,Liechtenstein,,56,37,190
 LT,Litauen,,26,17,109
 LU,Luxemburg,,47,32,130
 MG,Madagaskar,,34,23,87
@@ -135,11 +135,11 @@ ME,Montenegro,,29,20,94
 MZ,Mosambik,,38,25,146
 MM,Myanmar,,35,24,155
 NA,Namibia,,30,20,112
-NP,Nepal,,28,19,86
+NP,Nepal,,36,24,126
 NZ,Neuseeland,,56,37,153
 NI,Nicaragua,,36,24,81
 NL,Niederlande,,47,32,122
-NE,Niger,,41,28,89
+NE,Niger,,42,28,131
 NG,Nigeria,,46,31,182
 NO,Norwegen,,80,53,182
 AT,Österreich,,40,27,108
@@ -160,7 +160,7 @@ PL,Polen,,29,20,60
 PT,Portugal,,36,24,102
 RW,Ruanda,,46,31,141
 RO,Rumänien,Bukarest,32,21,100
-RO,Rumänien,,26,17,62
+RO,Rumänien,,27,18,89
 RU,Russische Föderation,Jekatarinburg,28,19,84
 RU,Russische Föderation,Moskau,30,20,110
 RU,Russische Föderation,St. Petersburg,26,17,114
@@ -173,9 +173,9 @@ SA,Saudi-Arabien,Djidda,38,25,234
 SA,Saudi-Arabien,Riad,48,32,179
 SA,Saudi-Arabien,,48,32,80
 SE,Schweden,,50,33,168
-CH,Schweiz,Genf,64,43,195
-CH,Schweiz,,62,41,169
-SN,Senegal,,45,30,128
+CH,Schweiz,Genf,66,44,186
+CH,Schweiz,,64,43,180
+SN,Senegal,,42,28,190
 RS,Serbien,,20,13,74
 SL,Sierra Leone,,48,32,161
 ZW,Simbabwe,,45,30,140
